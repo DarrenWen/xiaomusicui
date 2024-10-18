@@ -14,6 +14,7 @@
 2. 下载当前页面里面的xiaomusic*.zip文件解压到映射的路径上。
 ![alt text](./showtime/image-5.png)
 3. 访问之前的后台地址，如果出现如下界面说明成功。
+
 ![alt text](./showtime/image-6.png)
 
 
