@@ -5,7 +5,7 @@
 
 # 使用说明
 ## 1. 非docker运行
-如果是非docker模式下部署的xiaomusic，下载对应版本的![alt text](image.png)前端页面替换之前项目带的文件就好。
+如果是非docker模式下部署的xiaomusic，下载对应版本的![alt text](./showtime/image.png)前端页面替换之前项目带的文件就好。
 
 ## 2. docker运行操作
 1. 做docker目录映射，如下图：
