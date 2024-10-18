@@ -10,11 +10,11 @@
 ## 2. docker运行操作
 1. 做docker目录映射，如下图：
  /app/xiaomusic/static
-![alt text](image-4.png)
+![alt text](./showtime/image-4.png)
 2. 下载当前页面里面的xiaomusic*.zip文件解压到映射的路径上。
-![alt text](image-5.png)
+![alt text](./showtime/image-5.png)
 3. 访问之前的后台地址，如果出现如下界面说明成功。
-![alt text](image-6.png)
+![alt text](./showtime/image-6.png)
 
 
 # 功能说明
@@ -22,7 +22,7 @@
 
 ## 1. 如何设置专辑图片
 > 转到映射目录\theme1\img\folder，上传你想要设置的图片，名称和你的文件夹名字一样，后缀必须是.jpg文件。如果你不上传图片，系统也会给一个默认图片，设置好以后程序加载就会自动加载你设置好的图片。
-![alt text](image-7.png)
+![alt text](./showtime/image-7.png)
 
 
 # 项目展示
